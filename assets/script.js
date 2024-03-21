@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
       box5: 'assets/files/Impl1.pdf',
       box6: 'https://github.com/ENGTeam11/11Game',
       box7: 'assets/files/desktop-1.0.jar',
+      box8: 'assets/files/Add1.pdf',
     };
   
     const boxes = document.querySelectorAll('.box');
